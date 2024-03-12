@@ -1,4 +1,4 @@
-# Learning Django Repository
+# Learning Django
 
 Welcome to my repository for learning Django! This repository serves as a journal of my journey as I explore the Django web framework and Django Rest Framework (DRF). I'm documenting my progress, notes, and projects from various sources, including online courses, documentation, and tutorials.
 
