@@ -1,0 +1,14 @@
+[coverage:report]
+skip_empty = true
+
+[run]
+branch = True
+
+omit =
+  setup.py
+  venv/*
+  */tests/*
+
+[report]
+sort = Cover
+term-missing = True
